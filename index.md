@@ -8,4 +8,4 @@ Cline StateSync only creates and accesses files that it creates for its own sync
 
 The application is intended for personal use only.
 
-[Privacy Policy](./privacy/)
+[Privacy Policy](./privacy.html)
